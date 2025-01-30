@@ -1,2 +1,0 @@
-1,BMW,Seria 3,2019,Niebieski,500,Wynajęty
-2,Toyota,Yaris,2015,Żółty,150,Wynajęty

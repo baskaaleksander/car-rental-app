@@ -1,2 +1,0 @@
-1,olek,baska,olebas,7NcYcNGWMxapfjrDQIyYNa2M8PPBvHA1J8MCZVNPda4=,505225083,user
-2,admin,admin,admin,jGl25bVBBBW96Qi9Te4V37Fnqchz/Eu4qB9vKrRIqRg=,000000000,admin
